@@ -1,7 +1,7 @@
 import os
 
-inPath = 'C:/Users/Roberto/Documents/Climatología/Sounding/processed_soundings_1982-2018/tjsj_soundings_1982-2018/dailyData/'
-outPath = 'C:/Users/Roberto/Documents/Climatología/Sounding/processed_soundings_1982-2018/tjsj_soundings_1982-2018/dailyData/concat/'
+inPath = 'C:/Users/Roberto/Documents/GitHub/climatologia/Sounding/processed_soundings_1982-2018/tjsj_soundings_1982-2018/dailyData/'
+outPath = 'C:/Users/Roberto/Documents/GitHub/climatologia/Sounding/processed_soundings_1982-2018/tjsj_soundings_1982-2018/dailyData/concat/'
 
 outputFileName = 'concatSoundings_obs_pre-1989.csv'
 outputFileName1 = 'concatSoundings_obs_post-1989.csv'
